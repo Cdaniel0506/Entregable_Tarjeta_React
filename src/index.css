@@ -1,0 +1,15 @@
+/*Aqui alargamos todo el margen de color a la pagina contenedor App y lo centramos */
+
+body{
+    margin:0;
+    
+}
+*{
+    box-sizing: border-box;
+}
+
+/*Quitamos los bordes a todos los parrafos para que no tengan una m,argen blanca*/
+p, h1, h2, h3, h4, h5{
+    margin:0;
+
+}
